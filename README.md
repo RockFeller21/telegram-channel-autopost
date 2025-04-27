@@ -6,7 +6,7 @@ A bot for automating scheduled mailings to Telegram channels with a convenient a
 
 ---
 
-🇬🇧 English
+## 🇬🇧 English
 
 ## Features
 
@@ -59,13 +59,7 @@ A bot for automating scheduled mailings to Telegram channels with a convenient a
 
 ---
 
-## License
-
-MIT
-
----
-
-# 🇷🇺 Русский
+## 🇷🇺 Русский
 
 ---
 
